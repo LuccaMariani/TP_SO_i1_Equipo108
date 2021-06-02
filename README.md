@@ -1,2 +1,3 @@
-# TP_SO_i1_Equipo109
-Trabajo Practico Numero 1 de Arquitectura y Sistemas operativos.
+# Trabajos Prácticos - Equipo 109 - Arquitectura y Sistemas operativos - 2A - UTN Avellaneda
+Trabajos Prácticos de la cursada 2A. Trabajado con github.
+
